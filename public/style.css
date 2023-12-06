@@ -1,0 +1,32 @@
+body {
+  margin-left: 20px;
+  text-align: center;
+}
+
+.chat {
+  width: 400px;
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 16px;
+  display: inline-block;
+}
+
+.msg {
+  background-color: lightcoral;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 16px;
+}
+.btn {
+  display: flex;
+}
+.btn button {
+  margin-left: 10px;
+  border-radius: 12px;
+  border: none;
+  outline: none;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 300;
+  background-color: lightgreen;
+}
